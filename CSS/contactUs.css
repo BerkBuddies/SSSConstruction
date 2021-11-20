@@ -129,6 +129,12 @@
 	font-size: 18px;
 }
 
+#googleMap{
+	width:100%;
+	height:400px;
+	margin-top: 20px;
+}
+
 @media (max-width: 900px){
 	.contact{
 		padding: 100px 40px;
